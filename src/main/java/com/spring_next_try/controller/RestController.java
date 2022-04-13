@@ -1,5 +1,5 @@
 package com.spring_next_try.controller;
 
-@RestController
+@org.springframework.web.bind.annotation.RestController
 public class RestController {
 }
